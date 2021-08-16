@@ -9,4 +9,4 @@ To access geography visualizations and maps, pls use the following links:
 - Map 2: https://bit.ly/3xM8v6J
 - Map 3: https://bit.ly/3r6S56m
 
-Most used tools: HTML, CSS, Javascript, D3.js
+Most used tools: R, HTML, CSS, Javascript, D3.js, CARTO
