@@ -9,4 +9,9 @@ To access geography visualizations and maps, pls use the following links:
 - Map 2: https://bit.ly/3xM8v6J
 - Map 3: https://bit.ly/3r6S56m
 
+To access virtual data visualizations, please use the following links:
+- Animated chart: https://bit.ly/3wCP2nf 
+- Interactive chart: https://bit.ly/36w4YNz
+- Scater plot: https://bit.ly/3e8DSjN
+
 Most used tools: R, HTML, CSS, Javascript, D3.js, CARTO
